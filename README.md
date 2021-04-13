@@ -31,7 +31,7 @@ The next step to clone repository and download requirements
 
 Clone this repository
 ```
-git clone https://github.com/Neobiskg/FMS-TEAM2.git
+git clone https://github.com/mminovv/financeCrm.git
 ```
 Install requirements
 ```
